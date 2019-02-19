@@ -1,0 +1,32 @@
+{
+  "name": "spicy-words",
+  "version": "0.1.0",
+  "description": "Generate a spicy word to jooj up your error messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamzerella/spicy-words.git"
+  },
+  "keywords": [
+    "swear",
+    "fun",
+    "profanity",
+    "cuss",
+    "word",
+    "message",
+    "generator"
+  ],
+  "author": "Adam Zerella <adam@commandshiftr.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamzerella/spicy-words/issues"
+  },
+  "homepage": "https://github.com/adamzerella/spicy-words#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.0"
+  }
+}
