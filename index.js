@@ -10,8 +10,8 @@ const Words = require( './dictionary.js' );
  * @returns {string|string[]} - Return a word or array of words.
  */
 const GenerateWord = ( number ) => {
-    if( number > 0 &&
-        typeof( number ) == 'number' ) {
+    if( typeof( number ) == 'number' &&
+        number > 0 ) {
         let result = [];
 
         for( let i = 0; i < number; i++ ){
