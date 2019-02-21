@@ -1,6 +1,6 @@
 {
   "name": "spicy-words",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generate a spicy word to jooj up your error messages",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,6 @@
   "keywords": [
     "swear",
     "fun",
-    "profanity",
     "cuss",
     "word",
     "message",
