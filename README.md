@@ -36,6 +36,7 @@ yarn test
 # Contributors
 <div style="display:inline;">
   <a href="https://github.com/adamzerella"><img width="64" height="64" src="https://avatars0.githubusercontent.com/u/1501560?s=460&v=4" alt="Adam Zerella"/></a>
+    <a href="https://github.com/alex-page"><img width="64" height="64" src="https://avatars0.githubusercontent.com/u/19199063?s=460&v=4" alt="Alex Page"/></a>
 </div>
 
 [badge_paypal_donate]: https://ionicabizau.github.io/badges/paypal_donate.svg
