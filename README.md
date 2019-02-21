@@ -1,5 +1,6 @@
 # spicy-words
-> 🔥 Generate a spicy word to jooj up your error messages.
+
+> 🌶 Generate a spicy word to jooj up your error messages.
 
 [![PayPal][badge_paypal_donate]][paypal-donations]
 
