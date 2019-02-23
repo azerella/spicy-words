@@ -1,6 +1,6 @@
 {
   "name": "spicy-words",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Generate a spicy word to jooj up your error messages",
   "main": "index.js",
   "scripts": {
@@ -27,5 +27,9 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.0.0"
-  }
+  },
+  "files": [
+    "index.js",
+    "dictionary.js"
+  ]
 }

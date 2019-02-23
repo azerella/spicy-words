@@ -2,20 +2,21 @@
 
 > 🌶 Generate a spicy word to jooj up your messages.
 
-[![PayPal][badge_paypal_donate]][paypal-donations]
+I'm aspiring to make open-source my full-time work. If you like the work that I do, please consider supporting me.
 
-# Install
+[![Coffee][badge_coffee_donate]](https://www.buymeacoffee.com/adamzerella)
+[![PayPal][badge_paypal_donate]](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=G6XEP92DGG63S&currency_code=AUD&source=url)
+
+## Install
+
 ```bash
-# NPM
 npm i spicy-words
-
-# Yarn
-yarn add spicy-words
 ```
 
-# Usage
+## Usage
 
-## Module
+### Module
+
 ```javascript
 const SpicyWords = require( 'spicy-words' );
 
@@ -24,21 +25,21 @@ SpicyWords();         // Darn
 SpicyWords( 3 );      // [ `Nein`, `Mhh`, `Poppycock` ]
 ```
 
-# Test
-```bash
-# NPM
-npm test
+## Test
 
-# Yarn
-yarn test
+```bash
+npm test
 ```
 
+## Contribute
 
-# Contributors
+Don't be scared raise an issue or a pull request! Any contributions, no matter how big or small will land your picture here.
+
 <div style="display:inline;">
   <a href="https://github.com/adamzerella"><img width="64" height="64" src="https://avatars0.githubusercontent.com/u/1501560?s=460&v=4" alt="Adam Zerella"/></a>
     <a href="https://github.com/alex-page"><img width="64" height="64" src="https://avatars0.githubusercontent.com/u/19199063?s=460&v=4" alt="Alex Page"/></a>
 </div>
 
-[badge_paypal_donate]: https://ionicabizau.github.io/badges/paypal_donate.svg
-[paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=G6XEP92DGG63S&currency_code=AUD&source=url
+[badge_coffee_donate]: https://adamzerella.com/badges/coffee.svg
+[badge_patreon_donate]: https://adamzerella.com/badges/patreon.svg
+[badge_paypal_donate]: https://adamzerella.com/badges/paypal.svg
