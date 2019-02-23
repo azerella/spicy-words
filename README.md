@@ -24,7 +24,7 @@ SpicyWords();         // Darn
 SpicyWords( 3 );      // [ `Nein`, `Mhh`, `Poppycock` ]
 ```
 
-# Tests
+# Test
 ```bash
 # NPM
 npm test
@@ -41,5 +41,4 @@ yarn test
 </div>
 
 [badge_paypal_donate]: https://ionicabizau.github.io/badges/paypal_donate.svg
-
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=G6XEP92DGG63S&currency_code=AUD&source=url
