@@ -1,6 +1,6 @@
 {
   "name": "spicy-words",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Generate a spicy word to jooj up your error messages",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "message",
     "generator"
   ],
-  "author": "Adam Zerella <adam@commandshiftr.co>",
+  "author": "Adam Zerella <hello@adamzerella.com> (https://adamzerella.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/adamzerella/spicy-words/issues"

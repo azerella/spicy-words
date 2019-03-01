@@ -5,7 +5,7 @@
 I'm aspiring to make open-source my full-time work. If you like the work that I do, please consider supporting me.
 
 [![Coffee][badge_coffee_donate]](https://www.buymeacoffee.com/adamzerella)
-[![PayPal][badge_paypal_donate]](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=G6XEP92DGG63S&currency_code=AUD&source=url)
+[![PayPal][badge_paypal_donate]](https://paypal.me/adamzerella)
 
 ## Install
 
