@@ -41,5 +41,4 @@ Don't be scared raise an issue or a pull request! Any contributions, no matter h
 </div>
 
 [badge_coffee_donate]: https://adamzerella.com/badges/coffee.svg
-[badge_patreon_donate]: https://adamzerella.com/badges/patreon.svg
 [badge_paypal_donate]: https://adamzerella.com/badges/paypal.svg

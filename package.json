@@ -1,6 +1,6 @@
 {
   "name": "spicy-words",
-  "version": "1.0.2",
+  "version": "1.1.2",
   "description": "Generate a spicy word to jooj up your error messages",
   "main": "index.js",
   "scripts": {
@@ -30,6 +30,8 @@
   },
   "files": [
     "index.js",
+    "index.d.ts",
     "dictionary.js"
-  ]
+  ],
+  "types": "index.d.ts"
 }
